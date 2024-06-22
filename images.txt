@@ -1,1 +1,2 @@
 rsshub.netlify.app
+nginx
